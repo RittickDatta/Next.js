@@ -1,3 +1,3 @@
 ## Next.js App Router Course - Starter
 
-https://nextjs-dashboard-app-rittickdattas-projects.vercel.app/dashboard
+https://nextjs-dashboard-app-three-indol.vercel.app/dashboard
